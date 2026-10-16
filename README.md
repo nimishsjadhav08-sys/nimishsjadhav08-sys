@@ -18,6 +18,9 @@ full-stack web projects, and AI-powered solutions.
   <a href="https://www.linkedin.com/in/nimish-jadhav-135676366/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32" />
   </a>
+  <a href="https://x.com/Nimishsjadhav08" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)" height="32" />
+  </a>
 </p>
 
 ## Languages and Tools:
