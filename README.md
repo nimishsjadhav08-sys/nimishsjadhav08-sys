@@ -49,4 +49,8 @@ full-stack web projects, and AI-powered solutions.
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
   </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
+  </a>
+
 </p>
