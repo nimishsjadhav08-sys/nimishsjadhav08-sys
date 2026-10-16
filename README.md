@@ -1,11 +1,22 @@
+# Hi, I'm Nimish Jadhav 👋
+
+### Aspiring Full-Stack Developer | AI Enthusiast
+
+Welcome to my GitHub profile!
+
+I'm passionate about building practical software applications,
+full-stack web projects, and AI-powered solutions.
+
+## 🚀 Featured Projects
+
+- **Cineplex** — Movie discovery and recommendation application.
+- **Udyam Setu** — AI-driven business advisory for rural entrepreneurs.
+- **OIL Safety Intelligence** — AI-assisted safety report analysis.
 
 ## Connect with me:
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/nimish-jadhav-135676366/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="32" />
-  </a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="32" />
   </a>
 </p>
 
